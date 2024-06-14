@@ -7,6 +7,6 @@ document.getElementById("button").onclick = function () {
         changetext.innerHTML = "start123";
     } else {
         changetext.dataset.num = "2";
-        changetext.innerHTML = "4567end";
+        changetext.innerHTML = "456end";
     }
 }
